@@ -12,3 +12,7 @@ some useful tools for research work.
 ## Natural language processing
 + [Natural Language Toolkit](http://www.nltk.org/);
 + [WordNet](https://wordnet.princeton.edu/);
+
+## Writing tool
++ [ipython notebook](http://ipython.org/);
++ [TeXstudio](http://www.texstudio.org/);
