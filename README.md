@@ -16,3 +16,8 @@ some useful tools for research work.
 #### Writing tool
 + [ipython notebook](http://ipython.org/);
 + [TeXstudio](http://www.texstudio.org/);
+
+### 流程图
++ [PlantUML](http://www.jianshu.com/p/e92a52770832);
++ [graphviz](http://icodeit.org/2015/11/using-graphviz-drawing/);
+
